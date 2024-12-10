@@ -1,0 +1,6 @@
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/dhivyaarulk/netops
+[submodule "devtestlocalrepo"]
+	path = devtestlocalrepo
+	url = https://github.com/dhivyaarulk/netops
